@@ -38,7 +38,6 @@ function merge(arr1, arr2) {
 	}
 	return returnArray;
 }
-
 module.exports = {
 	leftAndRight,
 	merge,
