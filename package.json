@@ -6,7 +6,7 @@
 	"scripts": {
 		"test": "jest",
 		"test-watch": "jest --watchAll",
-		"test-watch-recent": "jest -o"
+		"test-watch-recent": "jest --watch"
 	},
 	"author": "",
 	"license": "ISC",
