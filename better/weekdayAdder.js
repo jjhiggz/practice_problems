@@ -2,4 +2,6 @@ function weekdayAdder() {
 	return "monday";
 }
 
-export default weekdayAdder;
+module.exports = {
+	weekdayAdder
+};
